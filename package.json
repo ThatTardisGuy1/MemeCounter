@@ -1,0 +1,8 @@
+{
+"name":"greeter-bot",
+"version":"1.0.0",
+"description":"My Meme Counter",
+"main":"bot.js",
+"author":"Magnus Wilson",
+"dependancies":{}
+}
